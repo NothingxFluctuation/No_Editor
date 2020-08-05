@@ -1,2 +1,2 @@
 # No_Editor
-Simple Text Editor which is obviously incomplete.
+Simple Code Editor which is currently under development.
